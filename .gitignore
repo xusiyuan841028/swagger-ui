@@ -1,7 +1,6 @@
 wordnik*.zip
 .DS_STORE
 *.ipr
-*.iml
 *.iws
 lib/*.jar
 META-INF/
@@ -17,6 +16,9 @@ version.properties
 reports/*
 .sass-cache
 swagger-ui.sublime-workspace
-.idea
 .project
 node_modules/*
+
+# IDEA
+.idea
+*.iml
