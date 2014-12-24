@@ -19,7 +19,6 @@ swagger-ui.sublime-workspace
 .project
 node_modules/*
 
-
 # IDEA
 .idea
 *.iml
